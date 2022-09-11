@@ -7,9 +7,10 @@
 #### Material por desarrollar,
 
 - [x] `Xls para el desarrollo del modelo en comunidad`
-- [ ] `Github Pre Co-Web`
-- [ ] `Video 2 minutos por que es esencial este proceso`
+- [x] `Github Pre Co-Web`
 - [x] Puntos clave de un organismo dirigido por la comunidad [Blog](https://mirror.xyz/0xE62F15C0B55ef59dFcE2E5aD51dBfAceD87378Da/WbnGvzlFai8FxUa0lLj3aJGQ4fwjhdvly_bnoqU6FXA)
+- [ ] `Video 2 minutos por que es esencial este proceso`
+- [ ] `Portal Donadora y Gitcoin`
 
 
 [Tablita de desarrollo comentable](https://docs.google.com/spreadsheets/d/1nqdlsuSvwbyVE9xZt7d6OHKgH1mekTMnp9fbu5s7iLE/edit?usp=sharing)
