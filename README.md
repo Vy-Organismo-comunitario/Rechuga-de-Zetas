@@ -11,7 +11,11 @@
 - [x] Puntos clave de un organismo dirigido por la comunidad [Blog](https://mirror.xyz/0xE62F15C0B55ef59dFcE2E5aD51dBfAceD87378Da/WbnGvzlFai8FxUa0lLj3aJGQ4fwjhdvly_bnoqU6FXA)
 - [ ] `Video 2 minutos "Lo que hay / Qué se quiere / por qué es esencial este proceso"`
 - [ ] `Portal Donadora y Gitcoin`
+- [ ] [Web](https://southwestmushrooms.com/)
+- [ ] Concensar nombre del organismo
+- [ ] Integrar [Exls](https://docs.google.com/spreadsheets/d/1nqdlsuSvwbyVE9xZt7d6OHKgH1mekTMnp9fbu5s7iLE/edit?usp=sharing)
 
+ 
 
 
 [Tablita de desarrollo comentable](https://docs.google.com/spreadsheets/d/1nqdlsuSvwbyVE9xZt7d6OHKgH1mekTMnp9fbu5s7iLE/edit?usp=sharing)
