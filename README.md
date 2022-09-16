@@ -21,3 +21,66 @@
 [Tablita de desarrollo comentable](https://docs.google.com/spreadsheets/d/1nqdlsuSvwbyVE9xZt7d6OHKgH1mekTMnp9fbu5s7iLE/edit?usp=sharing)
 
 ![noun-oyster-mushroom-2165024](https://user-images.githubusercontent.com/38388270/189502247-f23a44fa-9883-476a-a2f1-83c380103b23.png)
+
+### English
+
+A local productive model focused on producing and researching clear ways to feed the population
+
+
+
+Colored Oyster mushrooms
+Reishi Mushroom
+Shitake
+Turkey Tail
+
+
+To Share the earns of the production between the worked hours
+
+
+
+Clear Metrics To transit from industrially produced meat to mushrooms beef
+
+1 🐄 kg = 27 kg CO2 ☁  
+1 🐄 kg = 20,000 L of Water 💧
+Actual state
+
+Weekly 15 kg 🍄 = 15 🐄 kg = 405 kg CO2 ☁  & 300,000 L of Water 💧
+Mile Stones
+
+Goal 1 Weekly 700 kg 🍄 = 700 🐄 kg = 18,900 kg CO2 ☁  & 14,000,000 L of Water 💧
+ 
+
+📍Goal 1 Give the Investors the money back 5,037 USD to start producing and share all the earns in between the worked hours with no privilege spots
+
+
+
+📍Goal 2 Arrive to stage 3 and produce the same amount of a normal butchery store
+
+
+
+📍Goal 3 Replicate the model in a high-flow migration spot or other territories of interest
+
+
+
+++ to define by the working partners
+
+
+
+Protocol to keep developing
+
+Excel Sheet to track de invest and productivity
+
+Spanish blog to explore on community this kind of developments
+
+
+
+
+
+Lab protocols & Equipment by Kan Kan 
+
+Land Arrangement and organic fiber supplies by Hojaraska Biofabric
+
+Biomaterial Developments by Studio Myco
+
+Web 3 networking and Identity by Vy
+
