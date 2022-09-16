@@ -23,6 +23,9 @@
 
 ![noun-oyster-mushroom-2165024](https://user-images.githubusercontent.com/38388270/189502247-f23a44fa-9883-476a-a2f1-83c380103b23.png)
 
+
+<a class="gumroad-button" href="https://richiye.gumroad.com/l/sjwkjs">Consiguelo en</a>
+
 ### English
 
 A local productive model focused on producing and researching clear ways to feed the population
