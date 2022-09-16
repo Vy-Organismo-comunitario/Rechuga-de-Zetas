@@ -51,6 +51,7 @@ Goal 1 Weekly 700 kg 🍄 = 700 🐄 kg = 18,900 kg CO2 ☁  & 14,000,000 L of W
  
 
 📍Goal 1 Give the Investors the money back 5,037 USD to start producing and share all the earns in between the worked hours with no privilege spots
+Cell link
 
 
 
@@ -58,7 +59,8 @@ Goal 1 Weekly 700 kg 🍄 = 700 🐄 kg = 18,900 kg CO2 ☁  & 14,000,000 L of W
 
 
 
-📍Goal 3 Replicate the model in a high-flow migration spot or other territories of interest
+📍Goal 3 Replicate the model in a high-flow migration spot or other territories of interest 
+https://www.youtube.com/watch?v=C8xQ__PkE9M&ab_channel=DWEspa%C3%B1ol
 
 
 
