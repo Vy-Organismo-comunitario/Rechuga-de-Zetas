@@ -9,9 +9,8 @@
 - [x] `Xls para el desarrollo del modelo en comunidad`
 - [x] `Github Pre Co-Web 
 - [x] [Linktree](https://linktr.ee/micelio.c.lab)
-(https://mirror.xyz/0xE62F15C0B55ef59dFcE2E5aD51dBfAceD87378Da/WbnGvzlFai8FxUa0lLj3aJGQ4fwjhdvly_bnoqU6FXA)
 - [x] [XLS Comentable](https://docs.google.com/spreadsheets/d/1nqdlsuSvwbyVE9xZt7d6OHKgH1mekTMnp9fbu5s7iLE/edit?usp=sharing)
-- [x] Puntos clave de un organismo dirigido por la comunidad [Notion Blog]
+- [x] Puntos clave de un organismo dirigido por la comunidad [Coming Notion Blog](https://mirror.xyz/0xE62F15C0B55ef59dFcE2E5aD51dBfAceD87378Da/WbnGvzlFai8FxUa0lLj3aJGQ4fwjhdvly_bnoqU6FXA)
 - [ ] Video 1 minuto "Lo que hay / Qué se quiere / por qué es esencial este proceso"
 - [ ] Prop Donadora + Cuadratic Grant o Dao Prop
 - [ ] Web Ecomerse [pretty as](https://southwestmushrooms.com/)
