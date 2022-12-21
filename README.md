@@ -59,5 +59,5 @@ Exploring the potential of mycelium to develop nutritious, sustainable, and affo
 
 - Web 3 Dotworking by [Vy](https://linktr.ee/vy.oi)
 
-- Replicabilitie on [needed spaces](https://fm4pasolibre.org/)
+- Transversabilitie on [needed spaces](https://fm4pasolibre.org/)
 
